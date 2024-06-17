@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-17T21:31:21.064Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="KSJtWBzrBVDL_ant_K7z" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-17T21:31:41.058Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="v899IPvI7sd3vJ09L5n6" version="24.5.4" type="github">
   <diagram name="Page-1" id="LA2WkR0tfzE7qU1y7PFE">
     <mxGraphModel dx="1434" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -28,11 +28,11 @@
         <mxCell id="4Yp3aRuwDNmiUD6IqO68-11" value="Hospital Network" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=0;verticalAlign=middle;align=center;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="850" y="90" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4Yp3aRuwDNmiUD6IqO68-13" value="&lt;font style=&quot;background-color: rgb(255, 255, 255);&quot; color=&quot;#000000&quot;&gt;Server&lt;/font&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;fontColor=#FFFFFF;labelBackgroundColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="898.7" y="380" width="42.599999999999994" height="54" as="geometry" />
+        <mxCell id="4Yp3aRuwDNmiUD6IqO68-13" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;Server&lt;/font&gt;&lt;/span&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;fontColor=#FFFFFF;labelBackgroundColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="898.7" y="340" width="42.599999999999994" height="54" as="geometry" />
         </mxCell>
         <mxCell id="4Yp3aRuwDNmiUD6IqO68-14" value="&lt;font style=&quot;background-color: rgb(255, 255, 255);&quot; color=&quot;#000000&quot;&gt;Server&lt;/font&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;fontColor=#FFFFFF;labelBackgroundColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="898.7" y="233" width="42.599999999999994" height="54" as="geometry" />
+          <mxGeometry x="898.7" y="210" width="42.599999999999994" height="54" as="geometry" />
         </mxCell>
         <mxCell id="4Yp3aRuwDNmiUD6IqO68-15" value="AWS Direct Connect" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#FFFFFF;fillColor=#8C4FFF;strokeColor=#FFFFFF;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.direct_connect;" parent="1" vertex="1">
           <mxGeometry x="650" y="235" width="60" height="60" as="geometry" />
