@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-17T21:38:24.036Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="nxrZEOExUeR-xIlv7J9_" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-17T21:41:30.748Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="AzLmlwJRzHxUwgOwuBWL" version="24.5.4" type="github">
   <diagram name="Page-1" id="LA2WkR0tfzE7qU1y7PFE">
     <mxGraphModel dx="1434" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -43,12 +43,6 @@
         <mxCell id="4Yp3aRuwDNmiUD6IqO68-17" value="&lt;font style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Customer&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;gateway&lt;/font&gt;&lt;/div&gt;" style="sketch=0;outlineConnect=0;fontColor=#000000;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.customer_gateway;" parent="1" vertex="1">
           <mxGeometry x="773" y="295" width="52" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="4Yp3aRuwDNmiUD6IqO68-18" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;Customer&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;router&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="sketch=0;outlineConnect=0;fontColor=#FFFFFF;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.customer_gateway;" parent="1" vertex="1">
-          <mxGeometry x="504" y="295" width="52" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="4Yp3aRuwDNmiUD6IqO68-19" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;Direct Connect&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;router&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="sketch=0;outlineConnect=0;fontColor=#FFFFFF;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.customer_gateway;" parent="1" vertex="1">
-          <mxGeometry x="378" y="295" width="52" height="52" as="geometry" />
-        </mxCell>
         <mxCell id="4Yp3aRuwDNmiUD6IqO68-23" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#FFFFFF;fillColor=#8C4FFF;strokeColor=#FFFFFF;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.vpc;" parent="1" vertex="1">
           <mxGeometry x="70" y="170" width="40" height="40" as="geometry" />
         </mxCell>
@@ -67,8 +61,26 @@
         <mxCell id="ZLa8sWyv9zjw7mwy38Gk-10" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="210" y="280" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="4Yp3aRuwDNmiUD6IqO68-20" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.vpn_gateway;fillStyle=auto;" parent="1" vertex="1">
+        <mxCell id="4Yp3aRuwDNmiUD6IqO68-20" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Virtual Private&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;gateway&lt;/span&gt;&lt;/div&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.vpn_gateway;fillStyle=auto;" parent="1" vertex="1">
           <mxGeometry x="240" y="287" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLa8sWyv9zjw7mwy38Gk-11" value="AWS Direct Connect location" style="text;strokeColor=none;fillColor=none;html=1;fontSize=12;fontStyle=0;verticalAlign=middle;align=left;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="404.5" y="210" width="165.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLa8sWyv9zjw7mwy38Gk-12" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="321" as="sourcePoint" />
+            <mxPoint x="773" y="321.9478957915833" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZLa8sWyv9zjw7mwy38Gk-14" value="802.1Q VLAN" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=0;verticalAlign=middle;align=center;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="619.5" y="320" width="121" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4Yp3aRuwDNmiUD6IqO68-18" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;Customer&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;router&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="sketch=0;outlineConnect=0;fontColor=#FFFFFF;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.customer_gateway;" parent="1" vertex="1">
+          <mxGeometry x="504" y="295" width="52" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="4Yp3aRuwDNmiUD6IqO68-19" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;Direct Connect&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;router&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="sketch=0;outlineConnect=0;fontColor=#FFFFFF;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.customer_gateway;" parent="1" vertex="1">
+          <mxGeometry x="382" y="295" width="52" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
