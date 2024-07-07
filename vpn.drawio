@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-17T22:02:02.903Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="e1DPzbfH2_-qG9tU2atU" version="24.5.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-07-07T16:38:47.711Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="LLF5Es7Vgig_oJpJFmn5" version="24.6.4" type="github" pages="4">
   <diagram name="AWS Direct Connect" id="LA2WkR0tfzE7qU1y7PFE">
     <mxGraphModel dx="1434" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -288,6 +288,32 @@
               <mxPoint x="520" y="2056" />
             </Array>
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="xMt3959y_hVnzkrkXKeA" name="App">
+    <mxGraphModel dx="1242" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2Hch3t5QePQPrD_dfepw-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="150" y="40" width="890" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="2Hch3t5QePQPrD_dfepw-2" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#FFFFFF;fillColor=#000000;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.aws_cloud;" vertex="1" parent="1">
+          <mxGeometry x="150" y="40" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2Hch3t5QePQPrD_dfepw-3" value="AWS Cloud" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=0;verticalAlign=middle;align=left;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="209" y="40" width="121" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IAEc3bHJHABZSkNXtQ01-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=#A680B8;" vertex="1" parent="1">
+          <mxGeometry x="290" y="120" width="710" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="IAEc3bHJHABZSkNXtQ01-2" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#FFFFFF;fillColor=#8C4FFF;strokeColor=#FFFFFF;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.vpc;" vertex="1" parent="1">
+          <mxGeometry x="290" y="120" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IAEc3bHJHABZSkNXtQ01-3" value="AWS VPC" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=0;verticalAlign=middle;align=left;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="340" y="120" width="121" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
